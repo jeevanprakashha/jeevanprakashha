@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Alt text](https://media.licdn.com/dms/image/D5635AQHQQ3OPzf6J9g/profile-framedphoto-shrink_400_400/0/1707316331213?e=1709377200&v=beta&t=nvJqQf1BAD3r_ZK5fWQhP44jT-Cgf5uPYQbLXLxJbFY)
+<img src="![image](https://github.com/jeevanprakashha/jeevanprakashha/assets/154679109/ebc42a86-7996-4c6a-9ac8-01ded7b05f12)" alt="Alt text" title="Profile Image" width="100" height="100" style="border-radius:50%;">
 
 B.Tech in Computer Science Engineering (Specialization in AI and Robotics)
 
@@ -9,7 +9,6 @@ B.Tech in Computer Science Engineering (Specialization in AI and Robotics)
 - 👯 I’m looking to collaborate on with Robotic Engineers and get Job
 - 🤔 I’m looking for help with Robots and Gain experience
 - 💬 Ask me about anything
-- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/jeevan-prakash-b3846a211/
--                     Email: jeevanvitwork@gmail.com
+- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/jeevan-prakash-b3846a211/ Email: jeevanvitwork@gmail.com
 
 
