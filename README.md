@@ -17,10 +17,8 @@
 - 📩 jeevanvitwork@gmail.com
 
 **Skills**
-  Programming Languages: Python, C Basics)
-  Robotics: Hands-on experience with Arduino, sensors, and motors
-  RESUME
-  3
-  Web Development: Basics of website development
-  Mathematical Problem Solving: Proficient in tackling complex mathematical problems
-  Quick Learner & Creative Problem Solver
+  - Programming Languages: Python, C++(Basics)
+  - Robotics: Hands-on experience with Arduino, sensors, and motors
+  - Web Development: Basics of website development
+  - Mathematical Problem Solving: Having skills in tackling mathematical problems
+  - Quick Learner & Creative Problem Solver
