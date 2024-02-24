@@ -2,7 +2,7 @@
 
 ![Profile Image](https://media.licdn.com/dms/image/D5635AQHQQ3OPzf6J9g/profile-framedphoto-shrink_400_400/0/1707316331213?e=1709377200&v=beta&t=nvJqQf1BAD3r_ZK5fWQhP44jT-Cgf5uPYQbLXLxJbFY "Profile Image")
 
-**B.Tech in Computer Science Engineering (Specialization in AI and Robotics)**
+**B.Tech in Computer Science Engineering (Specialization in AI and Robotics)** [Email me](jeevanvitwork@gmail.com)
 
 - 🧑‍💻 Aspiring AI and Robotics professional with a strong foundation in programming, robotics, and mathematical problem-solving. Adapt in applying innovative solutions to complex challenges, with a commitment to excellence in all objectives. Eager to contribute to projects in AI and robotics.
 
@@ -12,8 +12,4 @@
 
 - 💬 Ask me about anything.
 
-📫 How to reach me:
-
-[![LinkedIn Profile](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jeevan-prakash-b3846a211/)
-
-[Email me](mailto:your_email@example.com)
+📫 How to reach me: [![LinkedIn Profile](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jeevan-prakash-b3846a211/)
