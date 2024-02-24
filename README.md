@@ -15,3 +15,12 @@
 - 📫 How to reach me: [![LinkedIn Profile](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jeevan-prakash-b3846a211/)
 
 - 📩 jeevanvitwork@gmail.com
+
+**Skills**
+  Programming Languages: Python, C Basics)
+  Robotics: Hands-on experience with Arduino, sensors, and motors
+  RESUME
+  3
+  Web Development: Basics of website development
+  Mathematical Problem Solving: Proficient in tackling complex mathematical problems
+  Quick Learner & Creative Problem Solver
