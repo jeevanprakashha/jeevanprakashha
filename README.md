@@ -13,6 +13,5 @@
 - 💬 Ask me about anything.
 
 📫 How to reach me:
-
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) [LinkedIn Profile](https://www.linkedin.com/in/jeevan-prakash-b3846a211/)
-- ![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white) 'jeevanvitwork@gmail.com'
+- [LinkedIn Profile](https://www.linkedin.com/in/jeevan-prakash-b3846a211/)
+- [Email me](jeevanvitwork@gmail.com)
