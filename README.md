@@ -9,6 +9,6 @@ B.Tech in Computer Science Engineering (Specialization in AI and Robotics)
 - 👯 I’m looking to collaborate on with Robotic Engineers and get Job
 - 🤔 I’m looking for help with Robots and Gain experience
 - 💬 Ask me about anything
-- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/jeevan-prakash-b3846a211/ Email: jeevanvitwork@gmail.com
+- 📫 How to reach me:<a href="https://www.linkedin.com/in/jeevan-prakash-b3846a211/" target="_blank" style="background-color: #0072b1; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 16px;">LinkedIn Profile</a>
 
 
