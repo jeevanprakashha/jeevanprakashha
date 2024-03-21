@@ -26,11 +26,32 @@
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeevan_Prakash-blue?logo=linkedin)](https://www.linkedin.com/in/jeevan-prakashb3846a211)
 
 ## 💻 Tech Stack
-- **Languages:** Java, Python, HTML5, CSS3, JavaScript, C, C++, R
-- **Frameworks/Libraries:**  Flask, Node.js
-- **Databases:**  MySQL
-- **Data Science:** NumPy, Pandas, scikit-learn
-- **Other:** Arduino
+
+- **Languages:** 
+  - Java ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+  - Python ![Python](https://img.icons8.com/color/48/000000/python.png)
+  - HTML5 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
+  - CSS3 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+  - JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+  - C ![C](https://img.icons8.com/color/48/000000/c-programming.png)
+  - C++ ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+  - R ![R](https://img.icons8.com/color/48/000000/r-programming.png)
+
+- **Frameworks/Libraries:** 
+  - Flask ![Flask](https://img.icons8.com/ios-filled/50/000000/flask.png)
+  - Node.js ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+
+- **Databases:** 
+  - MySQL ![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png)
+
+- **Data Science:** 
+  - NumPy ![NumPy](https://numpy.org/images/logos/numpy.svg)
+  - Pandas ![Pandas](https://pandas.pydata.org/static/img/pandas_white.svg)
+  - scikit-learn ![scikit-learn](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png)
+
+- **Other:** 
+  - Arduino ![Arduino](https://img.icons8.com/color/48/000000/arduino.png)
+
 
 ## 📊 GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeevanprakashha&show_icons=true&theme=radical)](https://github.com/jeevanprakashha)
