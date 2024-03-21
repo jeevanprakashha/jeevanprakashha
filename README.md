@@ -31,7 +31,7 @@
 - **Data Science:** NumPy, Pandas, scikit-learn
 - **Other:** Arduino
 
-  ## 📊 GitHub Stats
+## 📊 GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeevanprakashha&show_icons=true&theme=radical)](https://github.com/jeevanprakashha)
 
 ## 🏆 GitHub Trophies
