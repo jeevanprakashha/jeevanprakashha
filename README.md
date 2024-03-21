@@ -24,33 +24,32 @@
 ## 🌐 Socials
 - [![LeetCode](https://img.shields.io/badge/LeetCode-Jeevan_Prakash-yellow?logo=leetcode)](https://leetcode.com/jeevanvitwork)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeevan_Prakash-blue?logo=linkedin)](https://www.linkedin.com/in/jeevan-prakashb3846a211)
-
 ## 💻 Tech Stack
 
 - **Languages:** 
-  - Java ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-  - Python ![Python](https://img.icons8.com/color/48/000000/python.png)
-  - HTML5 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
-  - CSS3 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
-  - JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-  - C ![C](https://img.icons8.com/color/48/000000/c-programming.png)
-  - C++ ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-  - R ![R](https://img.icons8.com/color/48/000000/r-programming.png)
+  - Java ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+  - Python ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  - HTML5 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  - CSS3 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  - JavaScript ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  - C ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+  - C++ ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  - R ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 - **Frameworks/Libraries:** 
-  - Flask ![Flask](https://img.icons8.com/ios-filled/50/000000/flask.png)
-  - Node.js ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+  - Flask ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  - Node.js ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 - **Databases:** 
-  - MySQL ![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png)
+  - MySQL ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 - **Data Science:** 
-  - NumPy ![NumPy](https://numpy.org/images/logos/numpy.svg)
-  - Pandas ![Pandas](https://pandas.pydata.org/static/img/pandas_white.svg)
-  - scikit-learn ![scikit-learn](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png)
+  - NumPy ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+  - Pandas ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  - scikit-learn ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 - **Other:** 
-  - Arduino ![Arduino](https://img.icons8.com/color/48/000000/arduino.png)
+  - Arduino ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 
 ## 📊 GitHub Stats
