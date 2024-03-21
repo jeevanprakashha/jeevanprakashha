@@ -21,8 +21,8 @@
   - Quick Learner & Creative Problem Solver
 
 ## 🌐 Socials
-- [LeetCode](https://leetcode.com/jeevanvitwork)
-- [LinkedIn](https://www.linkedin.com/in/jeevan-prakash-b3846a211)
+- [![LeetCode](https://img.shields.io/badge/LeetCode-jeevanvitwork-green)](https://leetcode.com/jeevanvitwork)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-jeevan--prakash-blue)](https://www.linkedin.com/in/jeevan-prakash-b3846a211)
 
 ## 💻 Tech Stack
 - **Languages:** Java, Python, HTML5, CSS3, JavaScript, C, C++, R
