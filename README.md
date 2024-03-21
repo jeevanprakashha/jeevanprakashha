@@ -2,10 +2,10 @@
 
 <img src="https://media.licdn.com/dms/image/D5635AQHQQ3OPzf6J9g/profile-framedphoto-shrink_400_400/0/1707316331213?e=1710090000&v=beta&t=TlPjC-mOPz98Wnd5hCZvD5t6Nu1tFOFZWuFwM5zSNzk" alt="Profile Image" style="border-radius: 100%; width: 100px; height: 100px;">
 
-**B.Tech in Computer Science Engineering (Specialization in AI and Robotics)**
+** 💻 B.Tech in Computer Science Engineering (Specialization in AI and Robotics)**
 
 - 🧑‍💻 Aspiring AI and Robotics professional with a strong foundation in programming, robotics, and mathematical problem-solving. Adapt in applying innovative solutions to complex challenges, with a commitment to excellence in all objectives. Eager to contribute to projects in AI and robotics.
-
+  
 - 👯 I’m looking to collaborate with Robotic Engineers and get a job.
 
 - 🤔 I’m looking for help with robots and to gain experience.
@@ -14,7 +14,7 @@
 
 - 📩 jeevanvitwork@gmail.com
 
-**Skills**
+** ☆ Skills**
   - Robotics: Hands-on experience with Arduino, sensors, and motors
   - Web Development: Basics of website development
   - Mathematical Problem Solving: Having skills in tackling mathematical problems
