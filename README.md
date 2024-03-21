@@ -32,8 +32,8 @@
 - **Other:** Arduino
 
   ## 📊 GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeevanprakashha&show_icons=true&theme=radical)](https://github.com/jeevanprakashha)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jeevanprakashha&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
