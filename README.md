@@ -1,6 +1,6 @@
 # Hi there I'm Jeevan Prakash HA! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
-<img src="https://media.licdn.com/dms/image/D5635AQHQQ3OPzf6J9g/profile-framedphoto-shrink_400_400/0/1707316331213?e=1711598400&v=beta&t=IJjpU_mwMclBpmlNAAEW-RA6cz_WClZJmA7zwvzwIPc" alt="Jeevan Prakash" style="width:100px; border-radius: 100px;">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPbedhQzw2sZQLn1-B-epgnHxY5pjJfowcgCNAx8VmarKl6ggRFQDjJu6RdKOP_DPmRK8dy23hcUV_kFLdY8kN0XLDxnOyUYCq3i6OPtFrwYXWiiMm3sHGey36X-QArjTb9ACo1b_ec_B3AM72se1PxS7ktYFfmy14D74FsJ-dQ-ZMqlPs8CDyyHBA_g/s320/my_pic.jpeg" alt="Jeevan Prakash" style="width:100px; border-radius: 100px;">
 
 
 ## 💻 B.Tech in Computer Science Engineering (Specialization in AI and Robotics)
